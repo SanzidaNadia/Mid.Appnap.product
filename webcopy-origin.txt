@@ -1,0 +1,760 @@
+Uri: https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Nunito:ital,wght@0,400;0,600;0,700;0,800;0,900;1,400;1,600;1,700&family=Poppins:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500;1,600;1,700&display=swap
+File Name: C:\Downloaded Web Sites\themebeyond.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/architectsdaughter/v18/KtkxAKiDZI_td1Lkx62xHZHDtgO_Y-bvfY4.ttf
+File Name: C:\Downloaded Web Sites\themebeyond.com\s\architectsdaughter\v18\KtkxAKiDZI_td1Lkx62xHZHDtgO_Y-bvfY4.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXI3I6Li01BKofiOc5wtlZ2di8HDBImRTM.ttf
+File Name: C:\Downloaded Web Sites\themebeyond.com\s\nunito\v25\XRXI3I6Li01BKofiOc5wtlZ2di8HDBImRTM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXI3I6Li01BKofiOc5wtlZ2di8HDDsmRTM.ttf
+File Name: C:\Downloaded Web Sites\themebeyond.com\s\nunito\v25\XRXI3I6Li01BKofiOc5wtlZ2di8HDDsmRTM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmRTM.ttf
+File Name: C:\Downloaded Web Sites\themebeyond.com\s\nunito\v25\XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmRTM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXI3I6Li01BKofiOc5wtlZ2di8HDGUmRTM.ttf
+File Name: C:\Downloaded Web Sites\themebeyond.com\s\nunito\v25\XRXI3I6Li01BKofiOc5wtlZ2di8HDGUmRTM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXI3I6Li01BKofiOc5wtlZ2di8HDLshRTM.ttf
+File Name: C:\Downloaded Web Sites\themebeyond.com\s\nunito\v25\XRXI3I6Li01BKofiOc5wtlZ2di8HDLshRTM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNic3c3ig.ttf
+File Name: C:\Downloaded Web Sites\themebeyond.com\s\nunito\v25\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNic3c3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNirXA3ig.ttf
+File Name: C:\Downloaded Web Sites\themebeyond.com\s\nunito\v25\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNirXA3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiSnc3ig.ttf
+File Name: C:\Downloaded Web Sites\themebeyond.com\s\nunito\v25\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiSnc3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: C:\Downloaded Web Sites\themebeyond.com\s\poppins\v20\pxiByp8kv8JHgFVrLCz7V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDD4V1s.ttf
+File Name: C:\Downloaded Web Sites\themebeyond.com\s\poppins\v20\pxiByp8kv8JHgFVrLDD4V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\Downloaded Web Sites\themebeyond.com\s\poppins\v20\pxiByp8kv8JHgFVrLEj6V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: C:\Downloaded Web Sites\themebeyond.com\s\poppins\v20\pxiByp8kv8JHgFVrLGT9V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmg1hlEA.ttf
+File Name: C:\Downloaded Web Sites\themebeyond.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmg1hlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmr19lEA.ttf
+File Name: C:\Downloaded Web Sites\themebeyond.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmr19lEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmy15lEA.ttf
+File Name: C:\Downloaded Web Sites\themebeyond.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmy15lEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Downloaded Web Sites\themebeyond.com\s\poppins\v20\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrJJLedw.ttf
+File Name: C:\Downloaded Web Sites\themebeyond.com\s\poppins\v20\pxiGyp8kv8JHgFVrJJLedw.ttf
+Content Type: font/ttf
+
+Uri: https://themebeyond.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\themebeyond.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/404.html
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\404.html
+Content Type: text/html
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/about-us.html
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\about-us.html
+Content Type: text/html
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/blog-details.html
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\blog-details.html
+Content Type: text/html
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/blog.html
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\blog.html
+Content Type: text/html
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/cart.html
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\cart.html
+Content Type: text/html
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/checkout.html
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\checkout.html
+Content Type: text/html
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/contact.html
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\contact.html
+Content Type: text/html
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/css/animate.min.css
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\css\animate.min.css
+Content Type: text/css
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/css/aos.css
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\css\aos.css
+Content Type: text/css
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/css/default.css
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\css\default.css
+Content Type: text/css
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/css/flaticon.css
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\css\flaticon.css
+Content Type: text/css
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/css/fontawesome-all.min.css
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\css\fontawesome-all.min.css
+Content Type: text/css
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/css/jquery-ui.css
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\css\jquery-ui.css
+Content Type: text/css
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/css/magnific-popup.css
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/css/responsive.css
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\css\responsive.css
+Content Type: text/css
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/css/slick.css
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\css\slick.css
+Content Type: text/css
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/css/style.css
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\css\style.css
+Content Type: text/css
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/fonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\fonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/fonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\fonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/fonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\fonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/fonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\fonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/fonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\fonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/fonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/fonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\fonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/fonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\fonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/fonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\fonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/fonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\fonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/fonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\fonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/fonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/fonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\fonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/fonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\fonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/fonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\fonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/fonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\fonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/fonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\fonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/fonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/fonts/flaticon.eot?4fc00c1c225c05fb574cedbac7344b13
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\fonts\flaticon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/fonts/flaticon.svg?4fc00c1c225c05fb574cedbac7344b13
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\fonts\flaticon.svg
+Content Type: image/svg+xml
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/fonts/flaticon.ttf?4fc00c1c225c05fb574cedbac7344b13
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\fonts\flaticon.ttf
+Content Type: font/ttf
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/fonts/flaticon.woff2?4fc00c1c225c05fb574cedbac7344b13
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\fonts\flaticon.woff2
+Content Type: font/woff2
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/fonts/flaticon.woff?4fc00c1c225c05fb574cedbac7344b13
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\fonts\flaticon.woff
+Content Type: font/woff
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/bg/app_download_bg.jpg
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\bg\app_download_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/bg/breadcrumb_bg.jpg
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\bg\breadcrumb_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/bg/breadcrumb_bg02.jpg
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\bg\breadcrumb_bg02.jpg
+Content Type: image/jpeg
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/bg/coupon_banner_bg.jpg
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\bg\coupon_banner_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/bg/discount_count_bg.jpg
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\bg\discount_count_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/bg/services_bg.jpg
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\bg\services_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/bg/shop_discount_bg.jpg
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\bg\shop_discount_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/blog/add.png
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\blog\add.png
+Content Type: image/png
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/blog/blog_details_img01.jpg
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\blog\blog_details_img01.jpg
+Content Type: image/jpeg
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/blog/blog_details_img02.jpg
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\blog\blog_details_img02.jpg
+Content Type: image/jpeg
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/blog/blog_post_thumb01.jpg
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\blog\blog_post_thumb01.jpg
+Content Type: image/jpeg
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/blog/blog_post_thumb02.jpg
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\blog\blog_post_thumb02.jpg
+Content Type: image/jpeg
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/blog/blog_post_thumb03.jpg
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\blog\blog_post_thumb03.jpg
+Content Type: image/jpeg
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/blog/blog_thumb01.jpg
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\blog\blog_thumb01.jpg
+Content Type: image/jpeg
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/blog/blog_thumb02.jpg
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\blog\blog_thumb02.jpg
+Content Type: image/jpeg
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/blog/blog_thumb03.jpg
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\blog\blog_thumb03.jpg
+Content Type: image/jpeg
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/blog/post_avatar_img.png
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\blog\post_avatar_img.png
+Content Type: image/png
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/blog/rc_post_thumb01.jpg
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\blog\rc_post_thumb01.jpg
+Content Type: image/jpeg
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/blog/rc_post_thumb02.jpg
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\blog\rc_post_thumb02.jpg
+Content Type: image/jpeg
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/blog/rc_post_thumb03.jpg
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\blog\rc_post_thumb03.jpg
+Content Type: image/jpeg
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/favicon.png
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\favicon.png
+Content Type: image/png
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/icon/app_btn01.png
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\icon\app_btn01.png
+Content Type: image/png
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/icon/app_btn02.png
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\icon\app_btn02.png
+Content Type: image/png
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/icon/app_store.png
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\icon\app_store.png
+Content Type: image/png
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/icon/d_arrow.png
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\icon\d_arrow.png
+Content Type: image/png
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/icon/g_play.png
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\icon\g_play.png
+Content Type: image/png
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/icon/ing_icon01.png
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\icon\ing_icon01.png
+Content Type: image/png
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/icon/ing_icon02.png
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\icon\ing_icon02.png
+Content Type: image/png
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/icon/left_arrow.png
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\icon\left_arrow.png
+Content Type: image/png
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/icon/right_arrow.png
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\icon\right_arrow.png
+Content Type: image/png
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/images/active_year.jpg
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\images\active_year.jpg
+Content Type: image/jpeg
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/images/app_download_shape.png
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\images\app_download_shape.png
+Content Type: image/png
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/images/card.png
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\images\card.png
+Content Type: image/png
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/images/contact_img.png
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\images\contact_img.png
+Content Type: image/png
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/images/coupon_code.png
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\images\coupon_code.png
+Content Type: image/png
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/images/discount_count_shape01.png
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\images\discount_count_shape01.png
+Content Type: image/png
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/images/discount_count_shape02.png
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\images\discount_count_shape02.png
+Content Type: image/png
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/images/download_img.png
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\images\download_img.png
+Content Type: image/png
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/images/ingredients_img.jpg
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\images\ingredients_img.jpg
+Content Type: image/jpeg
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/images/megamenu_banner.jpg
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\images\megamenu_banner.jpg
+Content Type: image/jpeg
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/images/megamenu_banner02.jpg
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\images\megamenu_banner02.jpg
+Content Type: image/jpeg
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/images/newsletter_shape01.png
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\images\newsletter_shape01.png
+Content Type: image/png
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/images/newsletter_shape02.png
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\images\newsletter_shape02.png
+Content Type: image/png
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/images/payment_card.png
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\images\payment_card.png
+Content Type: image/png
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/images/support_img.png
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\images\support_img.png
+Content Type: image/png
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/images/title_shape.png
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\images\title_shape.png
+Content Type: image/png
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/logo/logo.png
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\logo\logo.png
+Content Type: image/png
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/product/bdw_products01.png
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\product\bdw_products01.png
+Content Type: image/png
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/product/bdw_products02.png
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\product\bdw_products02.png
+Content Type: image/png
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/product/bdw_products03.png
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\product\bdw_products03.png
+Content Type: image/png
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/product/bdw_products04.png
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\product\bdw_products04.png
+Content Type: image/png
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/product/best_deal_product01.png
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\product\best_deal_product01.png
+Content Type: image/png
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/product/best_deal_product02.png
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\product\best_deal_product02.png
+Content Type: image/png
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/product/best_deal_product03.png
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\product\best_deal_product03.png
+Content Type: image/png
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/product/best_deal_product04.png
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\product\best_deal_product04.png
+Content Type: image/png
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/product/best_deal_product05.png
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\product\best_deal_product05.png
+Content Type: image/png
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/product/cart_img01.jpg
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\product\cart_img01.jpg
+Content Type: image/jpeg
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/product/cart_img02.jpg
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\product\cart_img02.jpg
+Content Type: image/jpeg
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/product/cart_p01.jpg
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\product\cart_p01.jpg
+Content Type: image/jpeg
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/product/cart_p02.jpg
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\product\cart_p02.jpg
+Content Type: image/jpeg
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/product/category_img01.png
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\product\category_img01.png
+Content Type: image/png
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/product/category_img02.png
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\product\category_img02.png
+Content Type: image/png
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/product/category_img03.png
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\product\category_img03.png
+Content Type: image/png
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/product/category_img04.png
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\product\category_img04.png
+Content Type: image/png
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/product/category_img05.png
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\product\category_img05.png
+Content Type: image/png
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/product/category_img06.png
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\product\category_img06.png
+Content Type: image/png
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/product/desc_img.jpg
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\product\desc_img.jpg
+Content Type: image/jpeg
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/product/discount_img01.jpg
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\product\discount_img01.jpg
+Content Type: image/jpeg
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/product/discount_img02.jpg
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\product\discount_img02.jpg
+Content Type: image/jpeg
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/product/discount_img03.jpg
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\product\discount_img03.jpg
+Content Type: image/jpeg
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/product/os-products-thumb.jpg
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\product\os-products-thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/product/sd_nav_img01.jpg
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\product\sd_nav_img01.jpg
+Content Type: image/jpeg
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/product/sd_nav_img02.jpg
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\product\sd_nav_img02.jpg
+Content Type: image/jpeg
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/product/sd_nav_img03.jpg
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\product\sd_nav_img03.jpg
+Content Type: image/jpeg
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/product/shop_details_img01.jpg
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\product\shop_details_img01.jpg
+Content Type: image/jpeg
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/product/shop_details_img02.jpg
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\product\shop_details_img02.jpg
+Content Type: image/jpeg
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/product/shop_details_img03.jpg
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\product\shop_details_img03.jpg
+Content Type: image/jpeg
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/product/sidebar_product01.jpg
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\product\sidebar_product01.jpg
+Content Type: image/jpeg
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/product/sidebar_product02.jpg
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\product\sidebar_product02.jpg
+Content Type: image/jpeg
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/product/sidebar_product03.jpg
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\product\sidebar_product03.jpg
+Content Type: image/jpeg
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/product/sidebar_shop_ad.jpg
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\product\sidebar_shop_ad.jpg
+Content Type: image/jpeg
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/product/special_products_add.jpg
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\product\special_products_add.jpg
+Content Type: image/jpeg
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/product/sp_products01.png
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\product\sp_products01.png
+Content Type: image/png
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/product/sp_products02.png
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\product\sp_products02.png
+Content Type: image/png
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/product/sp_products03.png
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\product\sp_products03.png
+Content Type: image/png
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/product/sp_products04.png
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\product\sp_products04.png
+Content Type: image/png
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/product/sp_products05.png
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\product\sp_products05.png
+Content Type: image/png
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/product/sp_products06.png
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\product\sp_products06.png
+Content Type: image/png
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/product/sp_products07.png
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\product\sp_products07.png
+Content Type: image/png
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/product/sp_products08.png
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\product\sp_products08.png
+Content Type: image/png
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/product/sp_products09.png
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\product\sp_products09.png
+Content Type: image/png
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/product/sp_products10.png
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\product\sp_products10.png
+Content Type: image/png
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/product/sp_products11.png
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\product\sp_products11.png
+Content Type: image/png
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/product/sp_products12.png
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\product\sp_products12.png
+Content Type: image/png
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/product/sp_products13.png
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\product\sp_products13.png
+Content Type: image/png
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/product/sp_products14.png
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\product\sp_products14.png
+Content Type: image/png
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/product/sp_products15.png
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\product\sp_products15.png
+Content Type: image/png
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/product/sp__products01.png
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\product\sp__products01.png
+Content Type: image/png
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/product/sp__products02.png
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\product\sp__products02.png
+Content Type: image/png
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/product/sp__products03.png
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\product\sp__products03.png
+Content Type: image/png
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/product/sp__products04.png
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\product\sp__products04.png
+Content Type: image/png
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/product/sp__products05.png
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\product\sp__products05.png
+Content Type: image/png
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/product/sp__products06.png
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\product\sp__products06.png
+Content Type: image/png
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/product/sp__products07.png
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\product\sp__products07.png
+Content Type: image/png
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/product/sp__products08.png
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\product\sp__products08.png
+Content Type: image/png
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/product/s_discount_img01.jpg
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\product\s_discount_img01.jpg
+Content Type: image/jpeg
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/product/s_discount_img02.jpg
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\product\s_discount_img02.jpg
+Content Type: image/jpeg
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/slider/slider_banner01.jpg
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\slider\slider_banner01.jpg
+Content Type: image/jpeg
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/slider/slider_banner02.jpg
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\slider\slider_banner02.jpg
+Content Type: image/jpeg
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/img/slider/slider_banner03.jpg
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\img\slider\slider_banner03.jpg
+Content Type: image/jpeg
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/index-2.html
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\index-2.html
+Content Type: text/html
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/index.html
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\index.html
+Content Type: text/html
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/js/ajax-form.js
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\js\ajax-form.js
+Content Type: application/javascript
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/js/aos.js
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\js\aos.js
+Content Type: application/javascript
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/js/imagesloaded.pkgd.min.js
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\js\imagesloaded.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/js/isotope.pkgd.min.js
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\js\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/js/jquery-ui.min.js
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\js\jquery-ui.min.js
+Content Type: application/javascript
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/js/jquery.countdown.min.js
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\js\jquery.countdown.min.js
+Content Type: application/javascript
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/js/jquery.magnific-popup.min.js
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\js\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/js/main.js
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\js\main.js
+Content Type: application/javascript
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/js/plugins.js
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\js\plugins.js
+Content Type: application/javascript
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/js/slick.min.js
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\js\slick.min.js
+Content Type: application/javascript
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/js/vendor/jquery-3.6.0.min.js
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\js\vendor\jquery-3.6.0.min.js
+Content Type: application/javascript
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/js/wow.min.js
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\js\wow.min.js
+Content Type: application/javascript
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/shop-details.html
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\shop-details.html
+Content Type: text/html
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/shop-right-sidebar.html
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\shop-right-sidebar.html
+Content Type: text/html
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/shop.html
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\shop.html
+Content Type: text/html
+
+Uri: https://themebeyond.com/pre/ganic-prev/ganic-live/terms-conditios.html
+File Name: C:\Downloaded Web Sites\themebeyond.com\pre\ganic-prev\ganic-live\terms-conditios.html
+Content Type: text/html
+
